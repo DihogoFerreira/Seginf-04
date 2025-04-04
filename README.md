@@ -1,0 +1,2 @@
+# Seginf-04
+METODOLOGIA STRIDE
